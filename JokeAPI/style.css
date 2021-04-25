@@ -1,0 +1,10 @@
+.container {
+    padding: 200px 300px 300px 500px;
+    border: 1px solid black;
+    height: 50px;
+    width: unset;
+}
+
+#jokebtn {
+    border: 1px solid black;
+}
